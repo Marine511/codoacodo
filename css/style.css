@@ -109,6 +109,32 @@ ul li .nav-link:hover{
     border-radius: 3px;
 }
 
+.tipoticket {
+    margin-top: 15px;
+    text-align: center;
+    display: flex;
+    place-content: space-around;
+}
+
+.presentardoc{
+    color: grey;
+}
+
+.correo{
+    margin-top: 10px;
+}
+
+.alert{
+    margin-top: 30px;
+}
+
+
+#bore {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 /**/
 footer {
     padding: 10px;
